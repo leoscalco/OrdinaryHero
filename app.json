@@ -1,4 +1,7 @@
 {
   "name": "PomodoroApp",
-  "displayName": "PomodoroApp"
+  "displayName": "PomodoroApp",
+  "plugins": [
+    "expo-font"
+  ]
 }
